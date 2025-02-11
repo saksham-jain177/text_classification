@@ -35,7 +35,7 @@ This project implements a machine learning pipeline for classifying customer rev
 1. **Clone the Repository:**
 
    ```
-   git clone https://github.com/saksham-jain177/text-classification.git
+   git clone https://github.com/saksham-jain177/text_classification.git
    cd text-classification
    ```
 2. **Install Dependencies:**
